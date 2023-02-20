@@ -1,1 +1,1 @@
-# Reto-Ense-a-x-Oracle---Clasificaci-n-im-genes-Reto-1-
+# Reto1 Enseña-x-Oracle-Clasificación-imágenes
